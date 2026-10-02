@@ -1,4 +1,4 @@
-package bai1_6;
+package week2.bai1_6;
 
 import java.util.Scanner;
 
